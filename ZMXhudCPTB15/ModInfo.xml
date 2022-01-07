@@ -2,7 +2,7 @@
 <xml>
 	<ModInfo>
 		<Name value="ZMXhudCPTB15" />
-		<Description value="Inects XML to Merge Srillions SMX and KhaineGB's 15 slot Toolbelt Modlets" />
+		<Description value="Creates compatibility between SMXhud and Khaines 15 Slot Toolbel" />
 		<Author value="Robear" />
 		<Version value="1.0" />
 		<Website value="" />
