@@ -1,0 +1,32 @@
+﻿<Robear>
+
+<set xpath="/windows/window[@name='windowToolbelt']/@pos">-475,110</set>
+<!-- <set xpath="/windows/window[@name='windowToolbelt']/@pos">-615,110</set> -->
+<set xpath="/windows/window[@name='windowToolbelt']/@width">1230</set>	
+
+<!-- <set xpath="/windows/window[@name='windowToolbelt']/rect/@width">-615,-45</set>	 -->
+
+<set xpath="/windows/window[@name='windowToolbelt']/rect/grid[@name='inventory']/@pos">80,-43</set>
+<set xpath="/windows/window[@name='windowToolbelt']/rect/grid[@name='inventory']/@cols">15</set>
+<set xpath="/windows/window[@name='windowToolbelt']/rect/grid[@name='inventory']/@cell_width">82</set>
+<set xpath="/windows/window[@name='windowToolbelt']/rect/grid[@name='inventory']/@cell_height">80</set>
+
+<set xpath="/windows/window[@name='windowToolbelt']/rect/grid[@name='inventory']/smxui_toolbelt_item_stack/@cell_width">82</set>
+<set xpath="/windows/window[@name='windowToolbelt']/rect/grid[@name='inventory']/smxui_toolbelt_item_stack/@cell_height">80</set>
+
+<set xpath="/windows/window[@name='windowToolbelt']/rect/grid[@name='inventory2']/@pos">80,43</set>
+<set xpath="/windows/window[@name='windowToolbelt']/rect/grid[@name='inventory2']/@cols">30</set>
+<set xpath="/windows/window[@name='windowToolbelt']/rect/grid[@name='inventory2']/@cell_width">82</set>
+<set xpath="/windows/window[@name='windowToolbelt']/rect/grid[@name='inventory2']/@cell_height">80</set>
+
+<set xpath="/windows/window[@name='windowToolbelt']/rect/grid[@name='inventory2']/smxui_toolbelt_item_stack/@cell_width">82</set>
+<set xpath="/windows/window[@name='windowToolbelt']/rect/grid[@name='inventory2']/smxui_toolbelt_item_stack/@cell_height">80</set>
+
+
+
+
+	
+
+
+
+</Robear>
