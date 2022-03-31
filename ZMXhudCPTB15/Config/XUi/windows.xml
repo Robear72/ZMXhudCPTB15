@@ -15,7 +15,7 @@
 <set xpath="/windows/window[@name='windowToolbelt']/rect/grid[@name='inventory']/smxui_toolbelt_item_stack/@cell_height">80</set>
 
 <set xpath="/windows/window[@name='windowToolbelt']/rect/grid[@name='inventory2']/@pos">80,43</set>
-<set xpath="/windows/window[@name='windowToolbelt']/rect/grid[@name='inventory2']/@cols">30</set>
+<set xpath="/windows/window[@name='windowToolbelt']/rect/grid[@name='inventory2']/@cols">15</set>
 <set xpath="/windows/window[@name='windowToolbelt']/rect/grid[@name='inventory2']/@cell_width">82</set>
 <set xpath="/windows/window[@name='windowToolbelt']/rect/grid[@name='inventory2']/@cell_height">80</set>
 
